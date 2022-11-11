@@ -1,5 +1,5 @@
 {
-    "name": "shoprenter/api-client",
+    "name": "hocza/shoprenter-api",
     "type": "library",
     "description": "PHP client for ShopRenter API",
     "authors": [
